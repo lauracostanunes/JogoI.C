@@ -1,8 +1,8 @@
-# GitHub Templates 🚀
+# Guerras dos Porcalhões 🚀
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-Bem-vindo ao **GitHub Templates**, onde a diversão encontra a produtividade! Aqui você encontrará uma coleção de templates incríveis para GitHub, repletos de emojis, cards de status, ícones de linguagens e informações de contato. Prepare-se para tornar seus perfis e repositórios ainda mais impressionantes! 😎
+Bem-vindo ao projeto d 😎
 
 ## Menu 🚀
 
