@@ -1,46 +1,32 @@
 # Guerras dos Porcalhões 🚀
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+# README - Jogo no Construct 3
 
-Bem-vindo ao projeto d 😎
+## Sobre o Jogo
+Este jogo de plataforma desafia os jogadores a enfrentar inimigos, resolver pequenos desafios e utilizar diferentes mecânicas para progredir nos cenários e derrotar o chefão final.
 
-## Menu 🚀
+## Objetivo
+O objetivo do jogador é superar os desafios do jogo, derrotar os inimigos e utilizar itens estrategicamente para avançar até o confronto final.
 
-- [Templates de Perfil](https://github.com/DiasEllen26/template-readme/tree/main/perfil)
-- [Templates de Repositório](https://github.com/DiasEllen26/template-readme/tree/main/repositorio)
-- [Status](https://github.com/DiasEllen26/template-readme/blob/main/cards/status.md)
-- [Linguagens](https://github.com/DiasEllen26/template-readme/blob/main/cards/linguagem.md)
-- [Contato](https://github.com/DiasEllen26/template-readme/blob/main/icones/sociais.md)
-- [Skills](https://github.com/DiasEllen26/template-readme/blob/main/icones/skills.md)
+## Mecânicas do Jogo
+1. **Derrotar o Porco Patrulheiro**: Use a tecla **Espaço** para atacar com o martelo.
+2. **Movimentação**:
+   - **Seta Direita (Right)**: Avançar para frente.
+   - **Seta Esquerda (Left)**: Voltar para trás.
+   - **Page Up (PgUp)**: Pular.
+3. **Usar Objetos**:
+   - Utilize a caixa para alcançar áreas mais altas.
+   - **Rebater tiros do canhão**: Pressione **Espaço** no momento certo.
+   - **Coletar a chave** deixada pelo porco com canhão.
+   - Retornar para o cenário anterior e usar a chave para abrir o baú.
+   - Coletar a bomba dentro do baú.
+   - Retornar para o cenário do porco com canhão e seguir em frente.
+   - **Destruir caixas** com a tecla **Espaço**.
+   - **Jogar a bomba no chefão** com a tecla **Shift**.
 
-## Templates de Perfil 🙋‍♂️
-
-Você é único e seu perfil do GitHub também deve ser! Explore nosso diretório de [templates de perfil](https://github.com/DiasEllen26/template-readme/tree/main/perfil) para encontrar exemplos incríveis que o ajudarão a se destacar da multidão. Mostre ao mundo suas habilidades, projetos em destaque e muito mais!
-
-## Templates de Repositório 📚
-
-Cansado de READMEs chatos e monótonos? Dê uma olhada nos nossos [templates de repositório](https://github.com/DiasEllen26/template-readme/tree/main/repositorio) e deixe seus projetos brilharem! Nossos modelos oferecem uma estrutura flexível e divertida para documentar seu projeto, incluindo seções para descrição, instalação, uso, contribuição e licença.
-
-## Status ✨
-
-Deixe o mundo saber como está o seu projeto! Adicione cards de status e informe o estado do build, cobertura de testes, análise de código e muito mais. Os cards de status são uma maneira divertida e visual de fornecer informações importantes sobre o seu projeto.
-
-## Linguagens 🚀
-
-Mostre suas habilidades de programação com estilo! Utilize nossos ícones de linguagens para destacar as tecnologias envolvidas em seus projetos. Esses ícones são amplamente reconhecidos pela comunidade de desenvolvedores e adicionam um toque especial ao seu README.
-
----
-
-## Contribuição 🤝
-
-Este é um projeto de código aberto e adoraríamos receber contribuições da comunidade de desenvolvedores! Sinta-se à vontade para fazer fork deste repositório, trabalhar em melhorias e enviar pull requests para análise.
-
-Se você encontrar problemas ou tiver sugestões, abra uma issue e teremos prazer em discuti-las.
-
-Lembre-se de seguir as diretrizes de contribuição do projeto e respeitar o código de conduta.
-
-Junte-se a nós para tornar este projeto ainda mais incrível!
-
----
-
-Aproveite os templates e divirta-se criando READMEs incríveis! 😄✨
+## Controles
+- **Espaço**: Ataque com martelo / Rebater tiro do canhão / Destruir caixas.
+- **Shift**: Jogar a bomba no chefão.
+- **Right**: Mover para frente.
+- **Left**: Mover para trás.
+- **PgUp**: Pular
