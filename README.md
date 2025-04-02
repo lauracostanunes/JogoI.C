@@ -44,13 +44,14 @@ O jogador enfrentará diferentes desafios e deve seguir a sequência abaixo para
    - Siga em frente até encontrar o chefão final.
    - Use a tecla **Shift** para lançar a bomba e derrotá-lo.
 
-💻 Requisitos do Sistema
+##💻 Requisitos do Sistema
   - Para garantir a melhor experiência de jogo, confira os requisitos mínimos:
   - Sistema Operacional: Windows, macOS ou Linux
   - Navegador recomendado: Google Chrome, Mozilla Firefox ou Microsoft Edge
   - Dispositivos móveis: O jogo pode ser jogado em smartphones e tablets, mas recomenda-se um teclado para melhor controle
 
-👥 Créditos
+##👥 Créditos
 Este jogo foi desenvolvido no Construct 3 com dedicação e esforço para proporcionar uma experiência divertida e desafiadora.
 Se tiver dúvidas ou precisar de suporte, entre em contato com o desenvolvedor.
-🎮 Divirta-se e boa sorte! 🔥
+
+##🎮 Divirta-se e boa sorte! 🔥
