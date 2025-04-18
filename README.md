@@ -51,7 +51,7 @@ O jogador enfrentará diferentes desafios e deve seguir a sequência abaixo para
   - Dispositivos móveis: O jogo pode ser jogado em smartphones e tablets, mas recomenda-se um teclado para melhor controle
 
 ## 👥 Créditos
-Este jogo foi desenvolvido no Construct 3 com dedicação e esforço para proporcionar uma experiência divertida e desafiadora.
+Este jogo foi desenvolvido no Construct 3 pela estudante de bacharelado em Ciência da Computação e estudante de Defesa Cibernética, Laura Costa Nunes.
 Se tiver dúvidas ou precisar de suporte, entre em contato com o desenvolvedor.
 
 ## 🎮 Divirta-se e boa sorte!🔥
