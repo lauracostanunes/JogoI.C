@@ -52,6 +52,6 @@ O jogador enfrentará diferentes desafios e deve seguir a sequência abaixo para
 
 ## 👥 Créditos
 Este jogo foi desenvolvido no Construct 3 pela estudante de bacharelado em Ciência da Computação e estudante de Defesa Cibernética, Laura Costa Nunes.
-Se tiver dúvidas ou precisar de suporte, entre em contato com o desenvolvedor.
+Se tiver dúvidas ou precisar de suporte, entre em contato com a desenvolvedora.
 
 ## 🎮 Divirta-se e boa sorte!🔥
