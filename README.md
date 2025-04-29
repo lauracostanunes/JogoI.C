@@ -55,3 +55,4 @@ Este jogo foi desenvolvido no Construct 3 pela estudante de bacharelado em Ciên
 Se tiver dúvidas ou precisar de suporte, entre em contato com a desenvolvedora.
 
 ## 🎮 Divirta-se e boa sorte!🔥
+Acesso o link para jogar: https://lauracostanunes.itch.io/guerra-dos-porquinhos
