@@ -56,3 +56,8 @@ Se tiver dúvidas ou precisar de suporte, entre em contato com a desenvolvedora.
 
 ## 🎮 Divirta-se e boa sorte!🔥
 Acesso o link para jogar: https://lauracostanunes.itch.io/guerra-dos-porquinhos
+
+
+![Banco jpg](https://github.com/user-attachments/assets/31218ae0-32da-4ab1-9832-5b7aa701b218)
+![Banquinho jpg](https://github.com/user-attachments/assets/c3374ba0-cfbf-4344-9ee5-320eeab27688)
+![Dados jpg](https://github.com/user-attachments/assets/228b9a9e-a27b-48ed-b8fa-3643380efaa4)
